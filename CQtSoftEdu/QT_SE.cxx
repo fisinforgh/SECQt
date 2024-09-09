@@ -7,12 +7,15 @@
 // Authors:								   //
 //   [1] Sandra Milena Agudelo-González*	       			   //
 //   [2] Julián Salamanca*               				   //
-//                                                                         //
+//   [3] Diego Julián Rodríguez Patarroyo**             		   //
+//                    							   //
 //   [1] smagudelog@udistrital.edu.co (Estudiante Universidad Distrital)   //
 //   [2] jasalamanca@udistrital.edu.co (profesor Universidad Distrital)    //
-//									   //
-//  *Grupo de Física e Informática (FISINFOR)                              //
-//   Universidad Distrital Francisco José de Caldas                        //
+//   [3] djrodriguezp@udistrital.edu.co (profesor Universidad Distrital)   //
+//   									   //
+//  * Grupo de Física e Informática (FISINFOR)		     		   //
+//  ** Grupo de Laboratorio de Fuentes Alternas de Energía (LIFAE)	   //
+//  Universidad Distrital Francisco José de Caldas                         //
 //                                                                         //
 // Web page:								   //
 //  https://github.com/fisinforgh/SECQt.git                                //
@@ -1253,6 +1256,7 @@ void MyMainFrame::DoWelcome() {
   pavecred->AddText(" Autores: ");
   pavecred->AddText(" #font[62]{S Milena Agudelo G}, BS ");
   pavecred->AddText(" #font[62]{Julian A Salamanca B}, PHD ");
+  pavecred->AddText(" #font[62]{Diego J Rodríguez P}, PHD ");
   pavecred->AddText(" ----------------------------------------");
   pavecred->AddText(" Bachelor's Degree in Physics");
   pavecred->AddText(" Research Group FISINFOR");
