@@ -7,15 +7,18 @@
 // Authors:								   //
 //   [1] Sandra Milena Agudelo-González*	       			   //
 //   [2] Julián Salamanca*               				   //
-//                                                                         //
+//   [3] Diego Julián Rodríguez Patarroyo**             		   //
+//                    							   //
 //   [1] smagudelog@udistrital.edu.co (Estudiante Universidad Distrital)   //
 //   [2] jasalamanca@udistrital.edu.co (profesor Universidad Distrital)    //
-//									   //
-//  *Grupo de Física e Informática (FISINFOR)                              //
-//   Universidad Distrital Francisco José de Caldas                        //
+//   [3] djrodriguezp@udistrital.edu.co (profesor Universidad Distrital)   //
+//   									   //
+//  * Grupo de Física e Informática (FISINFOR)		     		   //
+//  ** Grupo de Laboratorio de Fuentes Alternas de Energía (LIFAE)	   //
+//  Universidad Distrital Francisco José de Caldas                         //
 //                                                                         //
 // Web page:								   //
-//   https://github.com/fisinforgh/SECQt.git                               //
+//  https://github.com/fisinforgh/SECQt.git                                //
 //                                                                         //
 // This program is free software; you can redistribute it and/or modify    //
 // it under the terms of the GNU General Public License as published by    //
